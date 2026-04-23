@@ -1,6 +1,6 @@
 # FOP Lab Assignments
 
-This repository contains all the assignments completed for the Fundamentals of Programming (FOP) lab.
+This repository contains all the assignments completed for the Foundation of Programming (FOP) lab.
 
 The Assignments folder includes both the Word documents (with questions and explanations) and the corresponding C programs for each assignment.
 
